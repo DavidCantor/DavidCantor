@@ -97,6 +97,29 @@ My current goal is to **strengthen my fundamentals**, write readable and scalabl
 
 ## 🚀 Featured Project
 
+### 🌐 Asconfi-JY – Accounting & Financial Advisory Website
+
+A **professional website for an accounting and financial advisory office**, built with a focus on **SEO, performance, and business conversion**.
+
+The application leverages **Server-Side Rendering (SSR)** to improve search engine visibility and initial load performance, following **modern frontend best practices**.
+
+**Tech Stack:**
+- Framework: Nuxt 4 (SSR)
+- Styling: Tailwind CSS
+- Deployment: Netlify
+
+**Key Features:**
+- Server-Side Rendering (SSR) for improved SEO and performance
+- SEO testing and optimization (meta tags, structured content, performance checks)
+- Clear presentation of accounting and financial services
+- Educational blog section
+- Contact forms for client acquisition
+- Fully responsive and mobile-first design
+- Clean, maintainable codebase following best practices
+
+🔗 Live website:  
+https://asconfijy.netlify.app/
+
 ### 🔐 CBAPASS – Access Control System
 
 A **web-based access control system using QR codes**, designed for organizations and events.
