@@ -11,13 +11,13 @@
 
 ## 🎯 About Me
 
-I am a **Junior Full Stack Developer** focused on building **functional, well-structured web applications** that solve real-world problems.
+I am a **Junior Full Stack Developer** with a stronger focus on **Nuxt-based frontend development**, building **functional, well-structured web applications** that solve real-world problems.
 
-I work mainly with **Vue / Nuxt on the frontend** and **Django with PostgreSQL on the backend**, prioritizing clean code, clear architecture, and maintainability.
+I mainly work with **Nuxt (Vue) on the frontend** and **Django with PostgreSQL on the backend**, prioritizing clean code, clear architecture, SEO-friendly practices, and maintainability.
 
 I also have complementary experience in accounting-related processes, which helps me better understand **business logic, data flows, and operational needs**, and translate them into practical software solutions.
 
-My current goal is to **strengthen my fundamentals**, write readable and scalable code, and continue building real projects with end-to-end responsibility.
+My current goal is to **strengthen my fundamentals**, deepen my expertise in Nuxt, write readable and scalable code, and continue building real projects with end-to-end responsibility.
 
 ---
 
@@ -35,12 +35,12 @@ My current goal is to **strengthen my fundamentals**, write readable and scalabl
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vue" width="48" />
-<br>Vue.js
+<img src="https://skillicons.dev/icons?i=nuxtjs" width="48" />
+<br><strong>Nuxt.js</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nuxtjs" width="48" />
-<br>Nuxt.js
+<img src="https://skillicons.dev/icons?i=vue" width="48" />
+<br>Vue.js
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" />
