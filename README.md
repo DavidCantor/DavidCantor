@@ -146,3 +146,16 @@ Aplicación moderna para gestión de tareas con funcionalidades avanzadas. Desar
 
 🔗 **[Frontend repositorio](#)** | **[Backend repositorio](#)** | **[Demo](#)**
 
+---
+
+## 📈 **Enfoque de Aprendizaje**
+
+<div align="center">
+  
+  ```text
+  🎯 Mi Ruta de Aprendizaje Actual:
+  ├── Dominio de Django y Django REST Framework
+  ├── Profundización en Vue.js/Nuxt.js ecosistema
+  ├── Arquitectura de microservicios y APIs REST
+  ├── Pruebas unitarias e integración (Jest, pytest)
+  └── DevOps básico (Docker, CI/CD, despliegue)
