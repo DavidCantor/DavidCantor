@@ -141,19 +141,23 @@ https://github.com/DavidCantor/CbaPoint-Despliegue.git
 
 ---
 
-## 💼 Freelance Services
+## 💼 Freelance Services (Nuxt-focused)
 
-I’m available for small to medium freelance projects such as:
+I specialize in building **Nuxt (SSR) business websites** with a strong focus on:
 
-- Landing pages and small websites
-- Admin dashboards and CRUD applications
-- Backend APIs with Django
-- Frontend improvements and UI fixes
+- SEO and performance
+- Clean, responsive UI with Tailwind CSS
+- Clear service presentation and conversion-oriented layouts
 
-📫 Contact me:
+### Services I offer:
+- Business and corporate websites
+- Landing pages for services
+- Blogs and content-driven websites
+- Custom integrations with Django APIs
+
+📫 Contact:
 - Email: dsantiagocanvar@gmail.com
-  
-## 📚 Currently Working On
+
 
 ```text
 - Deepening knowledge of Django REST Framework
