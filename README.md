@@ -118,6 +118,18 @@ https://github.com/DavidCantor/CbaPoint-Despliegue.git
 
 ---
 
+## 💼 Freelance Services
+
+I’m available for small to medium freelance projects such as:
+
+- Landing pages and small websites
+- Admin dashboards and CRUD applications
+- Backend APIs with Django
+- Frontend improvements and UI fixes
+
+📫 Contact me:
+- Email: dsantiagocanvar@gmail.com
+  
 ## 📚 Currently Working On
 
 ```text
@@ -126,3 +138,4 @@ https://github.com/DavidCantor/CbaPoint-Despliegue.git
 - API consumption and state management
 - Git and GitHub best practices
 - Deployment and project maintenance
+
