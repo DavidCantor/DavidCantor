@@ -1,9 +1,13 @@
 <div align="center">
 
-# 👨‍💻 Hi, I'm David  
-### Junior Full Stack Developer | Software Developer
+# 👨‍💻 Hi, I'm David 
+### **Junior Full Stack Developer | Software Developer**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;Vue+%2F+Nuxt+%7C+Django+%7C+PostgreSQL;Building+clear+and+functional+web+applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;Nuxt+%2F+Vue+Specialist;Laravel+%2B+Django+%2B+PostgreSQL;Building+Functional+Web+Solutions" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Portfolio](https://img.shields.io/badge/Live_Project-2E8B57?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://davidcantorportfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsantiagocanvar@gmail.com)
 
 </div>
 
@@ -11,158 +15,65 @@
 
 ## 🎯 About Me
 
-I am a **Junior Full Stack Developer** with a stronger focus on **Nuxt-based frontend development**, building **functional, well-structured web applications** that solve real-world problems.
+I am a **Junior Full Stack Developer** with a specialized focus on **Nuxt-based frontend development**. I build functional, well-structured web applications that solve real-world problems.
 
-I mainly work with **Nuxt (Vue) on the frontend** and **Django with PostgreSQL on the backend**, prioritizing clean code, clear architecture, SEO-friendly practices, and maintainability.
-
-I also have complementary experience in accounting-related processes, which helps me better understand **business logic, data flows, and operational needs**, and translate them into practical software solutions.
-
-My current goal is to **strengthen my fundamentals**, deepen my expertise in Nuxt, write readable and scalable code, and continue building real projects with end-to-end responsibility.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCantor&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=2E8B57&text_color=ffffff" height="160" />
-
-</div>
+* **Frontend Focus:** Specialized in Nuxt (Vue) for SEO-friendly, high-performance applications.
+* **Backend Expertise:** Working with **Laravel**, **Django** and **PostgreSQL**, prioritizing clean architecture and maintainability.
+* **Business Logic:** My experience in accounting processes allows me to understand and translate complex operational needs into practical software solutions.
+* **Current Goal:** Deepening my expertise in Nuxt, writing scalable code, and delivering end-to-end projects.
 
 ---
 
 ## 🛠️ Main Tech Stack
 
-### Frontend
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nuxtjs" width="48" />
-<br><strong>Nuxt.js</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vue" width="48" />
-<br>Vue.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" />
-<br>Tailwind CSS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" />
-<br>JavaScript
-</td>
-</tr>
-</table>
+### 💻 Frontend
+<a href="https://nuxt.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nuxtjs,vue,tailwind,js" height="45" alt="frontend-stack" /></a>
 
-### Backend & Database
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=django" width="48" />
-<br>Django
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" />
-<br>PostgreSQL
-</td>
-</tr>
-</table>
+### ⚙️ Backend & Database
+<a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django,python,laravel,postgresql" height="45" alt="backend-stack" /></a>
 
-### Tools & Deployment
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" />
-<br>Vercel
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=netlify" width="48" />
-<br>Netlify
-</td>
-</tr>
-</table>
+### 🚀 Tools & Deployment
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" height="45" alt="tools-stack" /></a>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🌐 Asconfi-JY – Accounting & Financial Advisory Website
+### 🌐 [Asconfi-JY](https://asconfijy.netlify.app/) – Accounting & Financial Advisory
+> **Professional SSR website** focused on SEO, performance, and business conversion.
 
-A **professional website for an accounting and financial advisory office**, built with a focus on **SEO, performance, and business conversion**.
+* **Tech Stack:** Nuxt 4 (SSR), Tailwind CSS, Netlify.
+* **Key Features:** Server-Side Rendering (SSR), SEO optimization, educational blog, and mobile-first design.
 
-The application leverages **Server-Side Rendering (SSR)** to improve search engine visibility and initial load performance, following **modern frontend best practices**.
+### 🔐 [CBAPASS](https://github.com/DavidCantor/CbaPoint-Despliegue.git) – Access Control System
+> **Web-based security system** using QR codes for organizations and events.
 
-**Tech Stack:**
-- Framework: Nuxt 4 (SSR)
-- Styling: Tailwind CSS
-- Deployment: Netlify
-
-**Key Features:**
-- Server-Side Rendering (SSR) for improved SEO and performance
-- SEO testing and optimization (meta tags, structured content, performance checks)
-- Clear presentation of accounting and financial services
-- Educational blog section
-- Contact forms for client acquisition
-- Fully responsive and mobile-first design
-- Clean, maintainable codebase following best practices
-
-🔗 Live website:  
-https://asconfijy.netlify.app/
-
-### 🔐 CBAPASS – Access Control System
-
-A **web-based access control system using QR codes**, designed for organizations and events.
-
-**Tech Stack:**
-- Backend: Django + Django REST Framework
-- Database: PostgreSQL
-- Frontend: Vue / Nuxt + Tailwind CSS
-- Deployment: Vercel / Netlify
-
-**Key Features:**
-- User authentication
-- Dynamic QR code generation and validation
-- Administrative dashboard
-- Access logging and reporting
-
-🔗 Repository:  
-https://github.com/DavidCantor/CbaPoint-Despliegue.git
+* **Tech Stack:** Django + DRF, PostgreSQL, Nuxt, Tailwind CSS.
+* **Key Features:** Dynamic QR generation, Admin dashboard, and access logging.
 
 ---
 
 ## 💼 Freelance Services (Nuxt-focused)
 
 I specialize in building **Nuxt (SSR) business websites** with a strong focus on:
+* SEO and performance optimization.
+* Clean, responsive UI with Tailwind CSS.
+* Landing pages and corporate sites.
+* Custom integrations with **Laravel** or **Django** APIs.
 
-- SEO and performance
-- Clean, responsive UI with Tailwind CSS
-- Clear service presentation and conversion-oriented layouts
+---
 
-### Services I offer:
-- Business and corporate websites
-- Landing pages for services
-- Blogs and content-driven websites
-- Custom integrations with Django APIs
+## 📈 Stats & Current Focus
 
-📫 Contact:
-- Email: dsantiagocanvar@gmail.com
+<div align="center">
 
+#### 🎯 Learning Path:
+`Laravel Ecosystem` • `Django REST Framework` • `Nuxt State Management` • `Scalable Architecture`
 
-```text
-- Deepening knowledge of Django REST Framework
-- Improving structure and patterns in Vue / Nuxt
-- API consumption and state management
-- Git and GitHub best practices
-- Deployment and project maintenance
+</div>
 
+---
+
+<div align="center">
+  <sub>Let's build something great together.</sub>
+</div>
