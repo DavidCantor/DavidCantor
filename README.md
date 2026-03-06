@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👨‍💻 Hi, I'm David Cantor
-### **Junior Full Stack Developer | JavaScript • TypeScript • Next.js • Vue**
+### **Frontend Developer | React/Next • Vue/Nuxt • TypeScript • SSR/SEO**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer;JavaScript+%2B+TypeScript+Developer;Next.js+%2B+Nuxt+Frontend;Node+%2F+Express+%2B+Laravel+Backend" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+%2B+TypeScript+Developer;Next.js+%2B+Nuxt+Frontend;Node+%2F+Express+%2B+Laravel+Backend" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santiago-cantor-vargas/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://davidcantorportfolio.netlify.app)
@@ -15,7 +15,7 @@
 
 # 🎯 About Me
 
-I am a **Junior Full Stack Developer focused on modern web development with JavaScript and TypeScript**.
+I am a **Frontend Developer focused on modern web development with JavaScript and TypeScript**.
 
 I work building **frontend applications with modern frameworks and backend APIs for real-world systems**, focusing on performance, scalability, and clean architecture.
 
@@ -157,7 +157,7 @@ I am currently seeking an opportunity as a **Junior Software Developer / Full St
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidCantor&show_icons=true&theme=transparent"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DavidCantor&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 </p>
 
 ---
