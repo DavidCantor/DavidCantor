@@ -157,7 +157,7 @@ I am currently seeking an opportunity as a **Junior Software Developer / Full St
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DavidCantor&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DavidCantorO&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 </p>
 
 ---
