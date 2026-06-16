@@ -1,169 +1,136 @@
 <div align="center">
 
-# 👨‍💻 Hi, I'm David Cantor
-### **Frontend Developer | React/Next • Vue/Nuxt • TypeScript • SSR/SEO**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=header&text=David%20Santiago%20Cantor%20Vargas&fontSize=28&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20·%20Backend%20%7C%20NestJS%20·%20Laravel%20·%20Next.js&descAlignY=70&descSize=14&descColor=94a3b8" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+%2B+TypeScript+Developer;Next.js+%2B+Nuxt+Frontend;Node+%2F+Express+%2B+Laravel+Backend" />
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santiago-cantor-vargas/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://davidcantorportfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsantiagocanvar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-santiago-cantor-vargas/)
+[![Portfolio](https://img.shields.io/badge/Portafolio-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://davidcantorportfolio.netlify.app)
+[![Email](https://img.shields.io/badge/dsantiagocanvar@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dsantiagocanvar@gmail.com)
+[![Phone](https://img.shields.io/badge/319%20383%201573-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+573193831573)
+
+<br/>
+
+> **Mosquera, Cundinamarca · Disponible para Bogotá / Híbrido / Remoto**
 
 </div>
 
 ---
 
-# 🎯 About Me
+## 👤 Sobre mí
 
-I am a **Frontend Developer focused on modern web development with JavaScript and TypeScript**.
+Desarrollador Full-Stack con enfoque en **backend y arquitectura limpia**, construyendo APIs y sistemas reales con Node.js, PHP y Python. Tengo experiencia en el diseño de módulos escalables, control de accesos, integración de ORMs y optimización de rendimiento en producción.
 
-I work building **frontend applications with modern frameworks and backend APIs for real-world systems**, focusing on performance, scalability, and clean architecture.
+Actualmente cursando **Ingeniería de Software** en la Corporación Universitaria Iberoamericana mientras contribuyo a proyectos reales bajo mi marca freelance **DACAV** y busco integrarme a un equipo profesional de desarrollo.
+---
 
-Currently finishing my **Software Development training** while building projects and preparing to **join a professional software development team**.
+## 🛠️ Stack Técnico
 
-### What I focus on
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-• Building modern **frontend interfaces with Next.js, Vue and Nuxt**  
-• Developing **backend APIs using Node.js, Express and Laravel**  
-• Working with **PostgreSQL databases and Supabase**  
-• Deploying applications using **Vercel and modern cloud platforms**
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-My goal is to **grow inside a professional development team**, contribute to real software products, and continue improving my engineering skills.
+### Bases de datos & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### DevOps & Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-# 🛠️ Tech Stack
+## 💼 Experiencia en Proyectos
 
-## 💻 Languages
+### 🔷 Aplicación CRUD Full-Stack · NestJS + Next.js
+`Mayo 2026 – Actualidad`
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,python" height="45"/>
+Arquitectura modular escalable con NestJS, TypeScript e inyección de dependencias nativa. Integración de Prisma ORM para mapeo de datos y consultas eficientes. Interfaz responsiva en Next.js con consumo optimizado de APIs del servidor.
 
-**JavaScript • TypeScript • PHP • Python**
-
----
-
-## 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxt,tailwind" height="45"/>
-
-**Next.js • React • Vue • Nuxt • Tailwind CSS**
-
-Focused on building **modern UI, SSR applications, and scalable frontend architectures**.
+**Stack:** `NestJS` `TypeScript` `Prisma ORM` `Next.js` `PostgreSQL`
 
 ---
 
-## ⚙️ Backend
+### 🌐 Plataforma Municipal de Juventudes – Mosquera
+`Marzo 2025 – Febrero 2026`
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django" height="45"/>
+Desarrollo y mantenimiento de plataforma web institucional. Optimización de rendimiento técnico, SEO y accesibilidad web con métricas verificadas en PageSpeed Insights. Diseño e implementación de interfaces orientadas a la experiencia del ciudadano.
 
-**Node.js • Express • Laravel • Django**
-
-Experience building **REST APIs, authentication systems, dashboards, and backend business logic**.
-
----
-
-## 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase" height="45"/>
-
-**PostgreSQL • Supabase**
+**Stack:** `FastAPI` `Nuxt.js` `Python` `SEO/PageSpeed`
 
 ---
 
-## 🚀 Deployment & Tools
+### 🏢 DACAV – Desarrollo Web Freelance
+`Noviembre 2025 – Febrero 2026`
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" height="45"/>
+Landing pages y sitios web responsivos a la medida para emprendimientos, enfocados en conversión y velocidad. Gestión autónoma de hosting, dominios y despliegue continuo. Soporte técnico post-entrega y mantenimiento preventivo.
 
-**Git • GitHub • Vercel • Netlify**
-
----
-
-# 🚀 Featured Projects
-
-## 🌐 DACAV – Web Development Platform
-
-Professional website created to present web development services and projects.
-
-**Tech Stack**
-
-Nuxt • Vue • Tailwind • Vercel
-
-**Key Features**
-
-• Responsive professional design  
-• SEO-focused structure  
-• Service presentation and portfolio  
-• Performance optimization
+**Stack:** `Nuxt.js` `Vue.js` `Tailwind CSS` `Vercel` `Netlify`
 
 ---
 
-## 🏢 Asconfi-JY – Business Website
+## 🔧 Experiencia Técnica Adicional
 
-Website developed for an accounting and financial advisory company.
+### PCSHEK SAS · Auxiliar de Sistemas (Practicante)
+`Octubre 2025 – Abril 2026`
 
-**Tech Stack**
-
-Nuxt • Tailwind • SSR • Netlify
-
-**Key Features**
-
-• SEO optimization  
-• Educational blog  
-• Mobile-first responsive design  
-• Professional service presentation
+Soporte técnico N1/N2 en entornos reales, resolución de incidencias de hardware y software. Configuración y despliegue de sistemas operativos, redes y conectividad básica. Control de inventario tecnológico.
 
 ---
 
-## 🔐 CBAPASS – QR Access Control System
+## 🚀 Proyectos Destacados
 
-Web-based system designed for **access control in organizations and events**.
-
-**Tech Stack**
-
-Django • PostgreSQL • Nuxt • Tailwind
-
-**Key Features**
-
-• Authentication system  
-• QR generation and validation  
-• Admin dashboard  
-• Access logs and reporting
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| **CBAPASS** | Sistema de control de acceso QR para organizaciones y eventos. Auth, generación/validación de QR, dashboard admin, logs. | `Django` `PostgreSQL` `Nuxt.js` `Tailwind` |
+| **Asconfi-JY** | Sitio web para empresa de asesoría contable y financiera. SSR, SEO optimizado, blog educativo, mobile-first. | `Nuxt.js` `Tailwind` `Netlify` |
+| **DACAV Web** | Plataforma de presentación de servicios de desarrollo web. Diseño responsivo, optimización SEO, portafolio profesional. | `Nuxt.js` `Vue.js` `Tailwind` `Vercel` |
 
 ---
 
-# 📈 Current Focus
+## 🎓 Educación
 
-Currently improving my skills in:
-
-• **Advanced Next.js and Nuxt architecture**  
-• **TypeScript best practices**  
-• **Backend API development (Node / Express / Laravel)**  
-• **Database design and integrations**  
-• **Production deployments and performance optimization**
+| Título | Institución | Estado |
+|--------|-------------|--------|
+| Ingeniería de Software | Corporación Universitaria Iberoamericana | En curso – 4° Semestre |
+| Tecnología en Análisis y Desarrollo de Software | SENA | Etapa culminada · Certificación pendiente |
+| Bachiller Académico | Colegio Integrado Americano | Graduado |
 
 ---
 
-# 🎯 Career Objective
+## 🤝 Liderazgo Comunitario
 
-I am currently seeking an opportunity as a **Junior Software Developer / Full Stack Developer**, where I can:
-
-• Contribute to real production systems  
-• Work with experienced engineering teams  
-• Continue improving my skills in **modern web technologies**  
-• Grow into a strong **full stack software engineer**
+- **Vicepresidente** – Plataforma Municipal de Juventudes, Mosquera *(2026 – Actualidad)*
+- **Consejero Municipal de Juventud** – Consejo Municipal de Juventudes, Mosquera *(2024 – 2025)*
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DavidCantorO&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-</p>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DavidCantorO&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCantorO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8"/>
+</div>
 
 ---
 
 <div align="center">
 
-**Building real projects and preparing for professional software development.**
+**Disponible para oportunidades Junior / Full-Stack · Bogotá · Híbrido · Remoto**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=80&section=footer" width="100%"/>
 
 </div>
