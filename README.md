@@ -105,8 +105,8 @@ Soporte técnico N1/N2 en entornos reales, resolución de incidencias de hardwar
 
 | Título | Institución | Estado |
 |--------|-------------|--------|
-| Ingeniería de Software | Corporación Universitaria Iberoamericana | En curso – 4° Semestre |
-| Tecnología en Análisis y Desarrollo de Software | SENA | Etapa culminada · Certificación pendiente |
+| Ingeniería de Software | Corporación Universitaria Iberoamericana | En curso – 5° Semestre |
+| Tecnología en Análisis y Desarrollo de Software | SENA | Graduado |
 | Bachiller Académico | Colegio Integrado Americano | Graduado |
 
 ---
