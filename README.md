@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=150&section=header&text=David%20Santiago%20Cantor%20Vargas&fontSize=32&fontColor=ffffff&fontAlignY=35&descAlignY=70&descSize=14" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack;Especialista+en+Backend;Arquitectura+Limpia+%7C+APIs;Líder+Tecnológico+y+Comunitario" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack;Enfoque+en+Backend+y+Arquitectura+Limpia;Desarrollo+de+APIs+RESTful;Gestión+y+Soporte+Técnico+TI" alt="Typing SVG" /></a>
 
 <br/>
 
